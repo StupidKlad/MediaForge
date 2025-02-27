@@ -1,2 +1,7 @@
-# MediaForge
-MediaForge is a open-source media center. Watch movies, series and more!
+<div align="center">
+
+# Under construction
+![dubstep](assets/lolz/dubstep.gif)
+
+</div>
+
